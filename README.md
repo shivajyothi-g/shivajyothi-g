@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivajyothi-g
-- 👀 I’m interested in ... updtae on new techonligies and learning new things every day 
-- 🌱 I’m currently learning ... cloud computing 
-- 💞️ I’m looking to collaborate on ... learing new technolgies 
+- 👀 I’m interested in ...  Learning new things every day 
+- 🌱 I’m currently learning ...  
+- 💞️ I’m looking to collaborate on ...  
 - 📫 How to reach me ... 
 
 <!---
